@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  .rect{
+    width: 1535px;
+    height: 730px;
+    filter: blur(3px);
+    position: relative;
+  }
+
+.logo {
+    color: white;
+    width: 55px;
+    height: 52px;
+    position: absolute;
+    color: white;
+    background-color: white;
+    top: 26px;
+    left: 24px;
+}
+
+.image-1 {
+  position: absolute;
+  width: 55px;
+  height: 52px;
+}
+
